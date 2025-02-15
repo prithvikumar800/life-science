@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[172],{5346:(e,_,n)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/Admin/createemployee",function(){return n(8744)}])},8744:(e,_,n)=>{"use strict";n.r(_),n.d(_,{default:()=>s});var r=n(4848);n(6540);let s=()=>(0,r.jsx)("div",{children:"createemployee"})}},e=>{var _=_=>e(e.s=_);e.O(0,[636,593,792],()=>_(5346)),_N_E=e.O()}]);
